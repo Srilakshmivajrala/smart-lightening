@@ -7,10 +7,10 @@ This is a Informational bot application developoed for education related to give
 ## Project title: 
        Smart lightening
        
-## Project description 😃 :      
+## Project description  :      
 I have created a informational bot named "smart lightening" using Html and services like QnA maker,Web app bot.It helps the user to finds information about smart lightening like ; What is smart lightening and it's benifits and about services. In this website I make four pages i.e; Home, chat bot, gallery, controls and benifits . It's look likes a professional bot. I am trying to solve the real world problem like in these days we are searching for  good and genuine website,apps etc.for information here and there. So I make a bot where I try to give every details of smart lightening . My project helps both learners and explorers like for learners I provided every details and for explorers I gave website links and everything there in the bot to know more to create , build, deploy etc ...                    
 
-## Features and functionalities 🧐:
+## Features and functionalities :
 - Lower energy use. Smart lights use CFL or LED bulbs instead of incandescent bulbs, and can reduce the amount of electricity.
 - Smart lighting is an advanced way to light your home.
 - save electricity and use remotely by using app.
