@@ -29,7 +29,7 @@ I have created a informational bot named "smart lightening" using Html and servi
 
 ## Screenshorts:
 ### Home Page 
-![home page image]
+![home page image](https://user-images.githubusercontent.com/113571734/193063507-bb85d323-5bbe-4624-a733-eceb52063a7f.png)
 
 ### Gallery Page
 ![gallery page](https://user-images.githubusercontent.com/110820099/189346354-4d70d42b-c219-4091-bba1-0d018ea0a39e.png)
