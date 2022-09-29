@@ -35,12 +35,12 @@ I have created a informational bot named "smart lightening" using Html and servi
 ![gallery page](https://user-images.githubusercontent.com/113571734/193064365-d680f6a7-1f52-4fcf-9940-0ae7d0f9de36.png)
 
 ### about smart lightening
-![About smart lighteing](https://user-images.githubusercontent.com/110820099/189346579-caae4531-311d-4d29-b627-9dceb0001e40.png)
+![About smart lighteing](https://user-images.githubusercontent.com/113571734/193065295-47ee1a89-102c-436a-a8dc-e12f257c26fe.png)
 
 ### About Page
 ![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
 
-### FAQ Page
+###
 ![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
 
 ### Chat Bot Page
