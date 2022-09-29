@@ -28,3 +28,26 @@ I have created a informational bot named "smart lightening" using Html and servi
 - Main concept that my bot gives;About Azure,how it works, history, full forms and detailed view of Azure.
 
 ## Screenshorts:
+### Home Page 
+![home page image]
+
+### Gallery Page
+![gallery page](https://user-images.githubusercontent.com/110820099/189346354-4d70d42b-c219-4091-bba1-0d018ea0a39e.png)
+
+### About Chat Bot 
+![About chat bot](https://user-images.githubusercontent.com/110820099/189346579-caae4531-311d-4d29-b627-9dceb0001e40.png)
+
+### About Page
+![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
+
+### FAQ Page
+![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
+
+### Chat Bot Page
+![chat bot page](https://user-images.githubusercontent.com/110820099/189347166-48cf0e3a-7a00-4b54-ae6f-b105afe035d4.png)
+
+### Contact Page
+![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
+
+
+
