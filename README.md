@@ -42,14 +42,5 @@ I have created a informational bot named "smart lightening" using Html and servi
 ### About controls and benifits
 ![about controls and benifits](https://user-images.githubusercontent.com/113571734/193065634-6d8b471b-3e87-444f-b447-0af1a6b23b88.png)
 
-###
-![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
-
-### Chat Bot Page
-![chat bot page](https://user-images.githubusercontent.com/110820099/189347166-48cf0e3a-7a00-4b54-ae6f-b105afe035d4.png)
-
-### Contact Page
-![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
-
 
 
