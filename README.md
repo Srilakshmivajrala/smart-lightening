@@ -40,7 +40,7 @@ I have created a informational bot named "smart lightening" using Html and servi
 ![About smart lighteing](https://user-images.githubusercontent.com/113571734/193065504-6b6c3118-ad65-417d-9d1c-ada14387eafc.png)
 
 ### About controls and benifits
-![about controls and benifits]
+![about controls and benifits](https://user-images.githubusercontent.com/113571734/193065634-6d8b471b-3e87-444f-b447-0af1a6b23b88.png)
 
 ###
 ![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
