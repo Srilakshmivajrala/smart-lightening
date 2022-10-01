@@ -28,8 +28,9 @@ I have created a informational bot named "smart lightening" using Html and servi
 - eliminating the need for traditional wall switches.
 
 ## Screenshorts:
-### Home Page 
-![home page image](https://user-images.githubusercontent.com/113571734/193063507-bb85d323-5bbe-4624-a733-eceb52063a7f.png)
+### Home Page:
+![SMART LIGHTENING](https://user-images.githubusercontent.com/113571734/193397203-3155a316-6a3d-4bb1-984e-d4b05c52ab22.png)
+
 
 ### chat bot
 ![chat bot page](https://user-images.githubusercontent.com/113571734/193064365-d680f6a7-1f52-4fcf-9940-0ae7d0f9de36.png)
@@ -42,5 +43,8 @@ I have created a informational bot named "smart lightening" using Html and servi
 ### About controls and benifits
 ![about controls and benifits](https://user-images.githubusercontent.com/113571734/193065634-6d8b471b-3e87-444f-b447-0af1a6b23b88.png)
 
+#####CONTACT PAGE:
+                  
+![SMART LIGHTENING](https://user-images.githubusercontent.com/113571734/193397071-03a6dfe7-3744-4091-8112-37cd21d02e78.png)
 
 
